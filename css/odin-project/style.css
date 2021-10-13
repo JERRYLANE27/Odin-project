@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0%;
+   
+  }
+.wrapper1{
+    background-color: #1f2937;
+  
+}
+.bobo{
+    /* margin-right: auto; /* 1 */
+    margin-left:  auto; /* 1 */
+
+    max-width: 960px; /* 2 */
+  
+    padding-right: 10px; /* 3 */
+    padding-left:  10px; /* 3 */
+  
+} 
+.bobo>h3{
+    text-align: center;
+}
+
+.lake>img{
+
+    border-radius: 30px;
+    border-style: solid;
+    border-color:#3882f6
+}
+.wrapper3{
+    background-color: #E5E7EB;
+
+}
+#foot{
+    text-align: right;
+}
+.jum{
+    color: aliceblue;
+    background-color: #3882f6;
+    border-radius: 10px;
+    
+}
+#efe{
+    margin-left: 100px;
+    border-radius: 10px;
+    border-color: aliceblue;
+}
+#dede{
+    background-color: red;
+}
+.last{
+    color: seashell;
+    text-align: center;
+    background-color:  #1f2937;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
